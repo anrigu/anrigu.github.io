@@ -3,7 +3,7 @@ export const publications = [
     title: "LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena",
     citation: "In Submission",
     authors: "Qingchuan Yang*, Simon Mahns*, Sida Li*, Anri Gu*, Jibang Wu, Haifeng Xu",
-    link: "https://arxiv.org/html/2510.17638v1",
+    link: "https://arxiv.org/abs/2510.17638",
     year: 2025
   },
   {
@@ -18,7 +18,7 @@ export const publications = [
     title: "Explicit Exploration for High-Welfare Equilibria in Game-Theoretic Multiagent Reinforcement Learning",
     citation: "ICML 2025: International Conference on Machine Learning",
     authors: "Austin Nguyen, Anri Gu, and Michael P. Wellman",
-    link: "/files/camera_ready_explicit.pdf",
+    link: "https://openreview.net/pdf?id=AxqgpcL90a",
     year: 2025
   },
   {
