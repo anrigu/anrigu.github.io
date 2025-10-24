@@ -10,7 +10,7 @@ export const publications = [
     title: "Market Selection with Midpoint Matching: A Strategic Agent-Based Analysis",
     citation: "ICAIF 2025: International Conference on AI in Finance",
     authors: "Gabe Smithline, Anri Gu, and Michael P. Wellman",
-    link: "/files/camera_ready_melo.pdf",
+    link: "https://strategicreasoning.org/wp-content/uploads/2025/10/M-ELO_camera_ready.pdf",
     special: "Oral Presentation",
     year: 2025
   },
