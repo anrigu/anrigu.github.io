@@ -1,3 +1,4 @@
+// Publications data
 export const publications = [
   {
     title: "LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena",
