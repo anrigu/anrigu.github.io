@@ -3,7 +3,7 @@ import { profile } from '../data/profile';
 
 const Hero = () => {
   return (
-    <section className="hero" id="about">
+    <section className="hero">
       <img 
         src={profile.avatar} 
         alt={profile.name}
