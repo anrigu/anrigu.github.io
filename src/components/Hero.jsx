@@ -12,7 +12,7 @@ const Hero = () => {
       <h1>{profile.name}</h1>
       <div className="links">
         <a href={profile.links.github} target="_blank" rel="noopener noreferrer">github</a>
-        <a href={profile.links.cv} target="_blank" rel="noopener noreferrer">cv</a>
+        <a href={`${profile.links.cv}?v=${Date.now()}`} target="_blank" rel="noopener noreferrer">cv</a>
         <a href={`mailto:${profile.email}`}>email</a>
         <a href={profile.links.googleScholar} target="_blank" rel="noopener noreferrer">scholar</a>
       </div>
