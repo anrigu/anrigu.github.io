@@ -8,7 +8,7 @@ export const profile = {
   links: {
     github: "https://github.com/anrigu",
     googleScholar: "https://scholar.google.com/citations?user=26ZLwOYAAAAJ&hl=en&oi=ao",
-    cv: "/files/CV.pdf"
+    cv: "/files/CV_1.pdf"
   }
 };
 
