@@ -2,7 +2,7 @@
 export const publications = [
   {
     title: "LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena",
-    citation: "In Submission",
+    citation: "ICLR 2026: International Conference on Learning Representations",
     authors: "Qingchuan Yang*, Simon Mahns*, Sida Li*, Anri Gu*, Jibang Wu, Haifeng Xu",
     link: "https://arxiv.org/abs/2510.17638",
     year: 2025
