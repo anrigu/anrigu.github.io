@@ -1,6 +1,18 @@
 // Publications data
 export const publications = [
   {
+    title: "When do Prophets Profit in Prediction Markets?",
+    citation: "Under Review",
+    authors: "Anri Gu, Nicole Kagan, Alec Sun, Jibang Wu, and Haifeng Xu",
+    year: 2026
+  },
+  {
+    title: "HackBench: A Benchmarking Suite for Evaluating Naturally-Emerging Reward Hacking in LLMs",
+    citation: "Under Review",
+    authors: "Bengisu Guresti, Anri Gu, Yongyan Zhang, Haifeng Xu, and Yevgeniy Vorobeychik",
+    year: 2026
+  },
+  {
     title: "LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena",
     citation: "ICLR 2026: International Conference on Learning Representations",
     authors: "Qingchuan Yang*, Simon Mahns*, Sida Li*, Anri Gu*, Jibang Wu, Haifeng Xu",
