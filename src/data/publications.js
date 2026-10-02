@@ -2,7 +2,7 @@
 export const publications = [
   {
     title: "When do Prophets Profit in Prediction Markets?",
-    citation: "Under Review",
+    citation: "NeurIPS 2026: Conference on Neural Information Processing Systems",
     authors: "Anri Gu, Nicole Kagan, Alec Sun, Jibang Wu, and Haifeng Xu",
     year: 2026
   },
