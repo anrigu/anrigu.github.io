@@ -8,18 +8,24 @@ const Publications = () => {
       <p className="publication-note">* denotes equal contribution</p>
       {publications.map((pub, index) => (
         <div key={index} className="publication-item">
-          <h3 className="publication-title">{pub.title}</h3>
+          <h3 className="publication-title">
+            {pub.link ? (
+              <a href={pub.link} target="_blank" rel="noopener noreferrer">{pub.title}</a>
+            ) : (
+              pub.title
+            )}
+          </h3>
           <p className="publication-authors">{pub.authors}</p>
           <p className="publication-citation">{pub.citation}</p>
           {pub.special && (
             <p className="publication-special">{pub.special}</p>
           )}
           {pub.link && (
-            <a 
-              href={pub.link} 
-              target="_blank" 
+            <a
+              href={pub.link}
+              target="_blank"
               rel="noopener noreferrer"
-              className="publication-link"
+              className="publication-button"
             >
               PDF
             </a>
