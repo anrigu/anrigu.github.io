@@ -17,7 +17,7 @@ const Hero = () => {
         <a href={profile.links.googleScholar} target="_blank" rel="noopener noreferrer">scholar</a>
       </div>
       <div className="bio">
-        <p>I am a 1st year PhD student in Computer Science at the University of Chicago fortunate to be advised by <a href="https://www.haifeng-xu.com/sigma/" target="_blank" rel="noopener noreferrer">Haifeng Xu</a>. Previously, I was an undergraduate student at the University of Michigan studying Computer Science and Economics, where I was advised by <a href="https://eecs.engin.umich.edu/people/wellman-michael/" target="_blank" rel="noopener noreferrer">Michael Wellman</a>. Broadly speaking, I'm interested in <em>algorithmic game theory</em> and <em>multi-agent systems</em>. In particular, I'm interested in analyzing strategic environments where decision-makers have incomplete or limited access to information, both from theoretical and empirical standpoints.</p>
+        <p>Computer Science PhD student at the University of Chicago advised by <a href="https://www.haifeng-xu.com/sigma/" target="_blank" rel="noopener noreferrer">Haifeng Xu</a>. I work on <em>AI for open-domain reasoning</em> (e.g., <em>forecasting</em>). In particular, I’m interested in how AI systems and other decision-makers reason and act in open-ended, strategic environments where information is incomplete or limited. Previously, I was an undergraduate at the University of Michigan, where I was advised by <a href="https://eecs.engin.umich.edu/people/wellman-michael/" target="_blank" rel="noopener noreferrer">Michael Wellman</a>.</p>
       </div>
     </section>
   );
